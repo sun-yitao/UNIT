@@ -1,4 +1,6 @@
 outputs/
+datasets/
+models/
 src/models/
 data/
 logs/
