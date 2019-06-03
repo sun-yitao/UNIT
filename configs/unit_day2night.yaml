@@ -48,4 +48,4 @@ new_size: 364                             # first resize the shortest image side
 crop_image_height: 364                      # random crop image of this height
 crop_image_width: 524                       # random crop image of this width
 
-data_root: ./datasets/day2night/     # dataset folder location
+data_root: ./datasets/day2night_v3/     # dataset folder location
