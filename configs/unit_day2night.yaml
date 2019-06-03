@@ -1,5 +1,5 @@
 # logger options
-image_save_iter: 10000        # How often do you want to save output images during training
+image_save_iter: 2000        # How often do you want to save output images during training
 image_display_iter: 100       # How often do you want to display output images during training
 display_size: 10               # How many images do you want to display each time
 snapshot_save_iter: 10000     # How often do you want to save trained models
@@ -44,7 +44,7 @@ dis:
 input_dim_a: 3                              # number of image channels [1/3]
 input_dim_b: 3                              # number of image channels [1/3]
 num_workers: 8                              # number of data loading threads
-new_size: 363                             # first resize the shortest image side to this size
+new_size: 364                             # first resize the shortest image side to this size
 crop_image_height: 364                      # random crop image of this height
 crop_image_width: 524                       # random crop image of this width
 
